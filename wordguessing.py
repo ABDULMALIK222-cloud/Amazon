@@ -1,4 +1,4 @@
-#program to guess the fruits from randomdom fruits like declared in the somewords below
+#program to guess the fruits from random fruits like declared in the somewords below
 import random
 from collections import Counter
 
