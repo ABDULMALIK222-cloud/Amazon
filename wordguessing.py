@@ -1,11 +1,10 @@
-# Python Program to illustrate
-# Hangman Game
+#program to guess the fruits from randomdom fruits like declared in the somewords below
 import random
 from collections import Counter
 
 someWords = '''apple banana mango strawberry 
 orange grape pineapple apricot lemon coconut watermelon 
-cherry papaya berry peach lychee muskmelon'''
+cherry papaya berry peach lychee  dragon muskmelon'''
 
 someWords = someWords.split(' ')
 # randomly choose a secret word from our "someWords" LIST.
